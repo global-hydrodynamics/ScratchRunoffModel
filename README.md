@@ -1,4 +1,4 @@
-# ScratchRunoffModel
+# ScratchRunoffModel v1.0
 
 ## Developed by:
 Yamazaki Lab (Global Hydrodynamics Lab), Institute of Industrial Science, The University of Tokyo
